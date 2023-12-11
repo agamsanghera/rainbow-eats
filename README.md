@@ -51,7 +51,7 @@ pnpm start
 ```
 
 ## 🧑‍💻 Authors
-**@Gokussgss, @xu-minghao317, @bangahmet**
+**@agamsanghera, @xu-minghao317, @bangahmet**
 
 ## Show your support
 Give a ⭐️ if you like this project!
